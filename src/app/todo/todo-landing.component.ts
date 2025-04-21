@@ -3,7 +3,7 @@ import { RouterLink, RouterOutlet } from '@angular/router';
 
 @Component({
   selector: 'app-todo-landing',
-  imports: [RouterOutlet,RouterLink],
+  imports: [RouterOutlet],
   templateUrl: './todo-landing.component.html',
   styleUrl: './todo-landing.component.css'
 })
