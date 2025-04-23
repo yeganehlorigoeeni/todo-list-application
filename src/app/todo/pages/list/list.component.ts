@@ -1,6 +1,6 @@
 import { NgFor, NgForOf } from '@angular/common';
 import { Component } from '@angular/core';
-import { NoteModule } from '../add/-models/note.module';
+import { NoteModule } from '../../../_models/note.module';
 
 @Component({
   selector: 'app-list',
